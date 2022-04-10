@@ -26,9 +26,12 @@ The issue with this, is that it only works with nginx instance using LDAP, such 
 
 Further analysis and testing is required. Looks to only be affecting this version. If it affects updated versions of the LDAP protocol, then we'll see what comes of that.
 
+### Update 3:
+I (as I'm still in ATW, but I'm just the only one online) have forwarded our own questions, community concerns, further testing questions to BrazenEagle via email. They have yet to respond, as they are US-based. Hopefully, they can provide some further answers. Shouldn't leak it, but their main contact email is brazeneagle@riseup.net (duh!). 
 
+While I'm still skeptical on the workings of this issue, it would explain the companies that were breached in under an hour during testing with BrazenEagle. They stated that they had passed this exploit to us as they were "working on more luctitive exploits". What that means, I'm not so sure.
 
-
+Some few individuals were (clearly) told about this being in the works some months ago via Telegram chats, which maybe perhaps some Twitter infosec people were talking about it and ATW.
 
 
 ## This README file will be updated as more information regarding this vuln comes to light. 
