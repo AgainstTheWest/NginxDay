@@ -34,4 +34,9 @@ While I'm still skeptical on the workings of this issue, it would explain the co
 Some few individuals were (clearly) told about this being in the works some months ago via Telegram chats, which maybe perhaps some Twitter infosec people were talking about it and ATW.
 
 
+
+### Update 4:
+
+Regarding what people have been suggesting on twitter and on the issues page about this only being a LDAP or Bitnami issue, the problem with this is, during testing phases, it's only worked on Nginx, not on Apache or other web servers. Also, Nginx have still not replied. DMs or E-mail. We've emailed some companies that are affected that we've not breached (since that's heavily against our ideals) for support on the matter regarding security around this exploit.
+
 ## This README file will be updated as more information regarding this vuln comes to light. 
