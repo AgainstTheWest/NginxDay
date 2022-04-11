@@ -45,6 +45,10 @@ Regarding what people have been suggesting on twitter and on the issues page abo
 So, we've been followed by an employee of Nginx on Twitter. Threw our a DM asking about the situation, no responce yet.
 We've been working on another exploit for MongoDB and another database management framework. Looking to have the PoC out in a week's time. Video as well. Will be working on it with @Gi7w0rm on Twitter.
 
+### Update 6:
+:O We got a DM from Nginx on twitter regarding the issue:
+![Twitter DM with Nginx](https://img001.prntscr.com/file/img001/KaV8MJrDTuu4LBHPEC03CA.png)
+
 ## This README file will be updated as more information regarding this vuln comes to light. 
 
 # Contact & other
