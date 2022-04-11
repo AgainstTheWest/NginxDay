@@ -36,10 +36,19 @@ While I'm still skeptical on the workings of this issue, it would explain the co
 
 Some few individuals were (clearly) told about this being in the works some months ago via Telegram chats, which maybe perhaps some Twitter infosec people were talking about it and ATW.
 
-
-
 ### Update 4:
 
 Regarding what people have been suggesting on twitter and on the issues page about this only being a LDAP or Bitnami issue, the problem with this is, during testing phases, it's only worked on Nginx, not on Apache or other web servers. Also, Nginx have still not replied. DMs or E-mail. We've emailed some companies that are affected that we've not breached (since that's heavily against our ideals) for support on the matter regarding security around this exploit.
 
+
+### Update 5:
+So, we've been followed by an employee of Nginx on Twitter. Threw our a DM asking about the situation, no responce yet.
+We've been working on another exploit for MongoDB and another database management framework. Looking to have the PoC out in a week's time. Video as well. Will be working on it with @Gi7w0rm on Twitter.
+
 ## This README file will be updated as more information regarding this vuln comes to light. 
+
+# Contact & other
+Our Email: AgainstTheWest@riseup.net
+Twitter: https://twitter.com/_Blue_Hornet
+
+Donate XMR: 85gUB5bvFwR5JVXig3QgPuRT3k83igXGy8Lk7dRJud5aepkzkSLqFv3CPFbEDPEapEHvNY5xr2Uhdj8YLbcJyKPMB3ijVXW
