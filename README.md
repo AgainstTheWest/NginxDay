@@ -49,6 +49,11 @@ We've been working on another exploit for MongoDB and another database managemen
 :O We got a DM from Nginx on twitter regarding the issue:
 ![Twitter DM with Nginx](https://img001.prntscr.com/file/img001/KaV8MJrDTuu4LBHPEC03CA.png)
 
+
+### Update 7:
+
+https://twitter.com/nginx/status/1513670892987031552
+
 ## This README file will be updated as more information regarding this vuln comes to light. 
 
 # Contact & other
