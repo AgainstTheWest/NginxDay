@@ -54,6 +54,13 @@ We've been working on another exploit for MongoDB and another database managemen
 
 https://twitter.com/nginx/status/1513670892987031552
 
+
+## Update 8:
+
+As Nginx have now released a blog post about the public releases of information, we've emailed them with a description, some familiarities of the issue that they highlighted over and assets affected. However, people are quick to jump on the "This is fake" or "This isn't anything" bandwagon. As we got no answer to if there is any bounty offered by Nginx for the findings, we've not shared any deeper information about this. If there is no bounty or even reward, we've looked at the other option that would be to sell the exploit on either breached.co, exploit.in or other sites. (We've been offered about 200K in XMR for the exploit).
+
+If you're thinking that we're "Only interested in money", yes, what do you expect? We're a threat group, lol
+
 ## This README file will be updated as more information regarding this vuln comes to light. 
 
 # Contact & other
